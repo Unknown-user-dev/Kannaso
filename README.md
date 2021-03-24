@@ -12,7 +12,7 @@
 </p>
 
 ```
-The ShipGirl Project, feat Kannaso; ⓒ Kancolle
+The ShipGirl Project, feat Kannaso; ⓒ Unknown User
 ```
 
 ### Features
