@@ -40,10 +40,6 @@ If you live on the edge, and want any update available on Kannaso
 npm i Unknown-user-dev/Kannaso
 ```
 
-### Documentation
-
-> https://Unknown-user-dev.github.io/Kannaso/?api
-
 ### Changelogs
 
 > https://github.com/Unknown-user-dev/Kannaso/blob/master/CHANGELOGS.MD
