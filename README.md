@@ -64,8 +64,6 @@ Docker images are available on the [Docker](https://hub.docker.com/r/fredboat/la
 
 ### Example
 
-> Bot Implementation: https://github.com/Unknown-user-dev/Kongou
-
 > Basic Implementation:
 
 ```js
