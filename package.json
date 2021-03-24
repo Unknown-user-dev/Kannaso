@@ -1,0 +1,38 @@
+{
+  "name": "Kannaso",
+  "version": "1.6.3",
+  "description": "A lavalink client for Discord.js v12 only",
+  "main": "index.js",
+  "scripts": {
+    "doc": "docma"
+  },
+  "types": "index.d.ts",
+  "keywords": [
+    "bot",
+    "music",
+    "lavalink",
+    "api",
+    "discord",
+    "lavalink.js",
+    "discord.js",
+    "lavalink-api",
+    "weeb-library"
+  ],
+  "author": "Saya",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Deivu/Kannaso"
+  },
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "shoukaku": "^1.5.2",
+    "ws": "^7.4.4"
+  },
+  "devDependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-light": "^3.5.4",
+    "typescript": "^4.2.3"
+  }
+}
