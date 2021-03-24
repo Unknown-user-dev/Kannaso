@@ -1,6 +1,6 @@
 ## Kannaso
 ### A Lavalink wrapper for Discord.JS v12.x.x
-[![Discord](https://img.shields.io/discord/423116740810244097?style=flat-square)](https://discordapp.com/invite/FVqbtGu)
+[![Discord](https://img.shields.io/discord/423116740810244097?style=flat-square)](https://discord.gg/CFF4D9K84p)
 [![npm](https://img.shields.io/npm/v/Kannaso?style=flat-square)](https://www.npmjs.com/package/Kannaso)
 ![Github Stars](https://img.shields.io/github/stars/Unknown-user-dev/Kannaso?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues-raw/Unknown-user-dev/Kannaso?style=flat-square)
