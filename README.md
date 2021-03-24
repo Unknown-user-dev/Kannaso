@@ -8,7 +8,7 @@
 ![NPM](https://img.shields.io/npm/l/Kannaso?style=flat-square)
 
 <p align="center">
-  <img width="497" height="768" alt="Kannaso" src="https://raw.githubusercontent.com/Unknown-user-dev/Kannaso/master/assets/cover.png"></img>
+  <img width="497" height="768" alt="Kannaso" src="https://github.com/Unknown-user-dev/Kannaso/blob/main/assets/cover.png"></img>
 </p>
 
 ```
