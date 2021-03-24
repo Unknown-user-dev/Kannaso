@@ -126,4 +126,4 @@ new ExampleBot()
     .catch(console.error);
 ```
 
-> Made with ❤ by @Sāya#0113
+> Made with ❤ by @Unknown User
